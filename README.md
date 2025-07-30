@@ -28,10 +28,10 @@ texttohash is a simple web application that allows users to convert text into va
 5. View and copy the resulting hash value.
 
 ## Technologies Used
-- Python (if backend is Python)
-- Flask (if applicable)
+- Python 
+- Flask 
 - HTML, CSS, JavaScript for frontend
-- Any other relevant technologies
+  
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and free to used
