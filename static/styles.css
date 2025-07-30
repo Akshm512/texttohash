@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+textarea {
+    width: 60%;
+    height: 100px;
+}
+.hash-results {
+    text-align: left;
+    display: inline-block;
+    margin-top: 20px;
+}
